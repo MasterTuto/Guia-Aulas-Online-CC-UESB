@@ -99,6 +99,12 @@ Disciplinas do segundo semestre e seus assuntos.
       <dd><a href="https://www.youtube.com/playlist?list=PLpGHF_AAwOMGi-ZGBsBGr_ikixc8xnBWU">3 Lógica de primeira ordem [É Lógico, pô]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=ybMaFgsCABc">4.1 Sistemas Dedutivos [Cleber]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=n1VsV93tG9E">4.2 Sistemas Dedutivos [Othon Batista]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=XmIORWOiTiQ">5 Relações de Consequências [Cleber]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=fy1ZxI4dd1M">6 Corretude</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Vmvbitz8M7Q">7 Completude</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=X9zLK6LS2Po">8.1 Prova por contraposita</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=E89vPUjLe-Q">8.2 Prova por redução ao absurdo</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=47txTvB4x9o">9 Provas de teoremas</a></dd>
     </dl>
   </ul>
 </details>

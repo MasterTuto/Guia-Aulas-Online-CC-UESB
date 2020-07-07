@@ -2,6 +2,8 @@
 
 Repositório para guia de aulas online das matérias de ciência da computação. Todas os assuntos estão sendo retirados do [projeto do curso de Ciência da Computação](http://catalogo.uesb.br/storage/documentos/computacao-bac-vc/projeto.pdf).
 
+Inspirado no projeto da OSSU - [Open Source Computer Science](https://github.com/ossu/computer-science).
+
 ### Segundo Semestre
 
 Disciplinas do segundo semestre e seus assuntos.
@@ -105,6 +107,81 @@ Disciplinas do segundo semestre e seus assuntos.
       <dd><a href="https://www.youtube.com/watch?v=X9zLK6LS2Po">8.1 Prova por contraposita</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=E89vPUjLe-Q">8.2 Prova por redução ao absurdo</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=47txTvB4x9o">9 Provas de teoremas</a></dd>
+    </dl>
+  </ul>
+</details>
+
+<details><summary> <b>Cálculo Diferencial e Integral II (Cálculo 2)</b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PL3mbnnHrApnLe45BfNjNVbNdhVD4D7B8H">1.1 Cálculo II Completo [Vídeo aulas SAES/UPF]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHeZfF4HwiVmv4D6n3acKLER">1.2 Cálculo II Completo [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLnWpv5C1ai2fbkVqcgwaYCiM2YA_ztwOU">1.2 Cálculo II Completo [Instituto Mauá]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=M_xCxHcBdBo">2.1 Integral Indefinida [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=CdEUV9mcEJ8">2.2 Integral Indefinida - Aula 1 [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=TPRt6MpP7R0">2.3 Integral Indefinida - Aula 2 [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=DFP20IRQ3mI">2.4 Integral Indefinida - Aula 3 [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=iyQlBAAHA9Q">2.5 Integral Indefinida - Aula 5 [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=k_p_wKHuz0w">2.6 Integral Indefinida - Aula 6 [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLfWdOFF4w26rlDKapbr0Hwzr5YDWlX-SS">3 Técnicas de Integração [Ficou mais Fácil]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=cx8TtHYsNzU">4.1 Integral Definida [Me Salva!]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=CWWbjoOjYOg">4.2 Integral Definida [Equaciona com Paulo Pereira]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=qk7PP0J4NaA">4.3 Integral Definida [Matemática Rapidola]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=wv23YefHGJA">5.1 Cálculo de Área por Integração [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=lDaksKlOY-o">5.2 Cálculo de Área por Integração [Paulo Ramos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=FIJLwZm4sN8">5.3 Cálculo de Área por Integração [Professor Mateca]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=W8oSjEkRY7Q">6.1 Cálculo de Volumes [omatematico.com]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=3Ey0mi10niw">6.2 Volumes de Sólido de Revolução [MATEMÁTICA PARA ENSINO SUPERIOR]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHeOiMYCBlkyCALloROQ58OY">7.1 Equações Diferenciais Ordinárias (aulas da 16 a 21) [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=y36S9e006h8">7.2 Equações Diferenciais Ordinárias [omatematico.com]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLDE03B0D5AD616BE1">8 Equações Diferenciais de Primeira Ordem em diante [omatematico.com]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=U_B8FJRZ8sY">9 Equações Diferenciais Lineares Homogêneas de 2ª Ordem e Coeficientes Constantes [MATEMÁTICA PARA ENSINO SUPERIOR]</a></dd>
+    </dl>
+    <dl>
+      <dt>Conteúdo Misto</dt>
+      <dd><a href="https://pt.khanacademy.org/math/integral-calculus">Cálculo Integral [Khan Academy]</a></dd>
+    </dl>
+  </ul>
+</details>
+
+<details><summary> <b>Física para Computação I (Física 1)</b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PLAudUnJeNg4vmlyuv__uBgdOkzw4VSrcJ">1.1 Física 1 [Canal USP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLFSnHaVpgmiGN_0jUOA4pliJCtR4XCIJ_">1.2 Física 1 [UFPE]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHdG8tw2QofrU02IuAEVyGlL">1.3 Física 3 [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLE6qFDd4x9w_JT-moXdEKW4fSHgzzKccF">1.4 Física Elétrica [omatematico.com]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=eAAKzZcbITI">2.1 Vetores [Professor Boaro]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLDE03B0D5AD616BE1">2.2 Vetores [Playlist - Professor Boaro]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=8Qg4U_eCPzA">2.3 Vetores [Física Total]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLnvUhOKqMcblqvoldXVmJsJ-fMUBc2hRa">3 Dinâmica de Partículas [Física Total]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PL1hCB5L6yvzmaxARiopK2xwoIg5XksH2_">4.1 Conservação de Energia [Pirando amigo!]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLWLEis9E9V29RRGLpyc9I5KQ-eIzjPiIF">4.2 Conservação de Energia [Só 10 Minutos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=3sZfccowDrk">5.1 Dinâmica de Rotação - Momento Angular [Responde aí]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=B4uOQM_g7B8">5.2 Dinâmica Rotacional e Torque [Física Universitária]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=BMrIHgI0PlU">6.1 Carga Elétrica [Professor Boaro]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=1bP8oEtgQkA">6.2 Carga Elétrica [Me Salva!]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=C8jgWisYAek">7 Campo elétrico [Física 2.0]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=KRDhpXjQfx4">8.1 Fluxo Elétrico [Resolvendo seus problemas]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Vlk-XW8Wg08">8.2 Fluxo Elétrico [Joel Mendonça]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=gSIzsP1uyYQ">9.1 Potencial Elétrico [Chama o Físico]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=T9G9UHZPl08">9.2 Potencial Elétrico [Física com Douglas Gomes]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=wG0sQz91MKc">10.1 Capacitores [Professor Boaro]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=O7td_P5JHtc">10.2 Capacitores [FISICATOTAL]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=i5t610oTI0Q">11.1 Dielétricos [Khan Academy]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=LUc-0VDh3Nc">11.2 Dielétricos [Science Club]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLNfWNKz4iEr83o2Nagek2XPcTt0ulgncN">12 Corrente Elétrica [Física 2.0]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=BUa-wIO1FyY">13.1 Resistência Elétrica [Mundo da Elétrica]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=6QeanXwEJGE">13.2 Resistência Elétrica [Professor Octávio]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=jBErpjIx7n0">14.1 Resistividade Elétrica [Marcos Aba]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=4WnnikjAK8E">14.2 Resistividade Elétrica [Fisica Total]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=PcbJj7ul-Gg">14.3 Resistência e Resistividade [Responde Aí]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLF06ERiJT7bbpuAMyT6vxciCaDbz9cubn">15.1 Circuitos de Corrente Contínua [FísicaInterativa.com]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=XjqGVMCQulg">15.2 O que é corrente Contínua [GV Ensino]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=ProfArQq6MM">15.3 Circuito de Corrente Contínua [Antonio Santos]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLy6bHc3TS3z-o_NFVgzxUsxtpF8clQAkC">15.4 Circuitos Corrente Contínua [Playlist - Eric Daza]</a></dd>
     </dl>
   </ul>
 </details>

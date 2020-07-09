@@ -1,6 +1,6 @@
 # Guia Aulas Online para Ciência da Computação da UESB
 
-Repositório para guia de aulas online das matérias de ciência da computação. Todas os assuntos estão sendo retirados do [projeto do curso de Ciência da Computação](http://catalogo.uesb.br/storage/documentos/computacao-bac-vc/projeto.pdf).
+Repositório para guia de aulas online das matérias de Ciência da Computação. Todas os assuntos estão sendo retirados do [projeto do curso de Ciência da Computação](http://catalogo.uesb.br/storage/documentos/computacao-bac-vc/projeto.pdf).
 
 Inspirado no projeto da OSSU - [Open Source Computer Science](https://github.com/ossu/computer-science).
 

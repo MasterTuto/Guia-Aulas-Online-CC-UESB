@@ -185,3 +185,34 @@ Disciplinas do segundo semestre e seus assuntos.
     </dl>
   </ul>
 </details>
+
+
+### Quarto Semestre
+
+As disciplinas do quarto semestre e seus assuntos
+
+<details><summary>Teoria da Computação</summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/watch?v=J_-uCVE_huw">1 Funções recursivas [Programação de Computadores]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=jvAkNij65W4">2.1 Brevíssima Introdução ao Cálculo Lambda [Cristiano Vasconcellos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=x0vI9v8yGtI">2.2 Expressões condicionais com cálculo lambda [iMasters] </a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=9cVq8Axq8lE">3.1 Tese de Church-Turing [Prof. Hugo Vieira]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=RJyXucOup-E">3.2 Tese de Church-Turing [Podcast Número Imaginário]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=rJ9Ke3fc1Ss">3.3 Tese de Church-Turing [Carla Negri]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=VfGNbJNOQZE">4.1 Problemas indecidíveis [dcc01ufmg]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=FJDPByoboOk">4.2 Problema da Parada [Número Imaginário]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=uFt3iufzrUw">4.3 Problema da Parada [dc001ufmg]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=gz5-GhNnkYk">5.1 Os teoremas da Incompletude de Gödel [É Lógico, pô]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=s_4Rq141_-A">5.2 Os teoremas de incompletude de Gödel [Palesta - CEPID CeMAI]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=drtipYgbT-s">5.3 O teorema da incompletude de Gödel [Escola Íntegro]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=WkFG8G0HmLw">5.4 Teorema de Gödel [Lucas Máximo]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=wsvXnmUHJX8">6.1 Classes de Problemas: P, NP e NP-Completo [UNIVESP] </a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=_SiJoR-xNHg">6.2 Classes de Problemas: P, NP, NP-Completo e NP-Difícil [Daniel Frey]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Q9Z8hPN8I5c">6.3 Classes de Problemas: P, NP, NP-Completo e NP-Difícil [Gabriel Medeiros]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=yk8xR-moUM8">7.1 O Processo de Solução de Problemas [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=LGF3ndqznac">7.2 Redução entre problemas [Professor Mário]</a></dd>
+    </dl>
+  </ul>
+</details>

@@ -217,7 +217,7 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary>Redes de Computadores I</summary></details>
+<details><summary>Redes de Computadores I</summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>

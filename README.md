@@ -216,3 +216,35 @@ As disciplinas do quarto semestre e seus assuntos
     </dl>
   </ul>
 </details>
+
+<details><summary>Redes de Computadores I</summary></details>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk">1.1 Redes de Computadores [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNpGh95n-OdEk06ity7YYfvU">1.2 Curso de redes de computadores [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLNx2jaiLxdXG5BRlnh7B4ysSnlRsNk2AE">2.1 Modelo OSI/ISO [Playlist - Felipe Barreiros]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=oz8gvGIUKFw">2.2 Modelo OSI/ISO e TP/IP [Redes Brasil]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLsiPSRLxRO-BJ1t5X2fAK_779yYRLT6Ym">2.3 Playlist Modelo OSI e TCP/IP [Felipe Barreiros]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=9HOZX0qQfBA">3.1 TCP/IP e OSI [Informática e concursos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=CuxVTAsicYs">3.2 Sobre o TCP/IP [Curso Online dlTec do Brasil]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=C7zPrlMkL2w">3.3 Pilha de Protocolos TCP/IP [Professor Washington Luis]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=aclH6Wf4f44">3.4 Vídeo Aula sobre TCP/IP [Gabriel Dias]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=031c04syZLs">4.1 Protocolos de rede [CANTINHO DA INFORMÁTICA]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=IlqLhdsHTPA">4.2 Serviços clássicos de rede [Curso Online DlTec do Brasil]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=jggJVSrXmI0">4.3 Serviços de rede [Moodle IFTM]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=xqo7zjkEx_g">5.1 Camada Física - Parte 1 [Ailton Luiz Dias Siqueira Júnior]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=tC7T_q0K3b4">5.2 Camada Física - Parte 2 [Ailton Luiz Dias Siqueira Júnior]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=sQfOKyL7pjY">6.1 Camada de Enlace [Ailton Luiz Dias Siqueira Júnior]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=1hkq_l2u27s">6.2 Endereçamento na camada de enlace [TI Network]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=1UtSUlbeplo">6.3 Camada de Enlace [Professor Márcio Henrique]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Je2xrKUw6R8">6.4 Camada de Link de Dados do modelo OSI [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=GuIxQmw75a4">7.1 Princípios da Camada de Rede [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=dXk2fJ2CkYw">7.2 Camada de rede [rodrigoronner]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=_3_w1rDaIiE">7.3 Protocolos da camada de rede [TI Network]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=2t3mHxkyB9Y">7.4 Camada de rede resumo - Parte 1 [Eduardo Maroñas Monks]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=raBdQ7I-kas">7.5 Camada de rede resumo - Parte 2 [Eduardo Maroñas Monks]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=EG9mSXlMTU4">8 TCP/IPv4 [ProfessorRamos]</a></dd>
+    </dl>
+  </ul>
+</details>

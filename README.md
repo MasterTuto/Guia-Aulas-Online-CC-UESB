@@ -248,3 +248,12 @@ As disciplinas do quarto semestre e seus assuntos
     </dl>
   </ul>
 </details>
+
+<details><summary>Programação Declarativa</summary>
+  <ul>
+    <dl>
+      <dt>Recursos Link</dt>
+      <dd><a href="http://haskell.tailorfontela.com.br/introduction">8 Tutorial completo de haskell [tailorfontela]</a></dd>
+    </dl>
+  </ul>
+</details>

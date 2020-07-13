@@ -191,7 +191,7 @@ Disciplinas do segundo semestre e seus assuntos.
 
 As disciplinas do quarto semestre e seus assuntos
 
-<details><summary>Teoria da Computação</summary>
+<details><summary> <b>Teoria da Computação</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
@@ -217,7 +217,7 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary>Redes de Computadores I</summary>
+<details><summary> <b>Redes de Computadores I</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
@@ -249,35 +249,41 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary>Programação Declarativa</summary>
+<details><summary> <b>Programação Declarativa</b> </summary>
   <ul>
     <dl>
-      <dt>Recursos Link</dt>
-      <dd><a href="http://haskell.tailorfontela.com.br/introduction"> Tutorial completo de haskell [tailorfontela]</a></dd>
+      <dt>Recursos em vídeo</dt>
       <dd><a href="https://www.youtube.com/watch?v=j7nWslfE6So&list=PLj0FuMXt1-5yVRnJhsxw_MAVMlD5UwvR_"> Tutorial PROLOG playlist [Jenilson Nascimento]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=omLANiMqbuY"> Tutorial PROLOG playlist [Jones Granatyr]</a></dd>
+    </dl>
+    <dl>
+      <dt>Recursos em texto</dt>
+      <dd><a href="http://haskell.tailorfontela.com.br/introduction"> Tutorial completo de haskell [tailorfontela]</a></dd>
     </dl>
   </ul>
 </details>
 
-<details><summary>Arquitetura de Computadores 1</summary>
+<details><summary> <b>Arquitetura de Computadores 1</b> </summary>
   <ul>
     <dl>
-      <dt>Recursos Link</dt>
+      <dt>Recursos em vídeo</dt>
       <dd><a href="https://www.youtube.com/watch?v=sbKAYKA5J1A&list=PLdvD02W3316IGfKXNU5Yf5OD-BSla_21i&index=11"> Tutorial completo teórico [tailorfontela]</a></dd>
       <dd><a href="https://www.youtube.com/c/canalwrkits/videos"> Canal com todo o assunto de vhdl só pesquisar wrkits + assuntos </a></dd>
     </dl>
   </ul>
 </details>
 
-<details><summary>Banco de dados 1</summary>
+<details><summary> <b>Banco de dados 1</b> </summary>
   <ul>
     <dl>
-      <dt>Recursos Link</dt>
+      <dt>Recursos em vídeo</dt>
       <dd><a href="https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r"> Mysql tutorial [Curso em Vídeo]</a></dd>
-      <dd><a href="https://www.w3schools.com/sql/default.asp"> Tutorial teórico e prático completo com direito a certificado </a></dd>
       <dd><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA"> MySQL Tutorial for Beginners [Full Course] </a></dd>
-      <dd><a href="https://sqlzoo.net/"> Site para treinar SQL conforme a evolução do aprendizado. </a></dd>
+    </dl>
+    <dl>
+      <dt>Recursos em texto</dt>
+      <dd><a href="https://www.w3schools.com/sql/default.asp"> Tutorial teórico e prático completo com direito a certificado (Em inglês) </a></dd>
+      <dd><a href="https://sqlzoo.net/"> Site para treinar SQL conforme a evolução do aprendizado. (Em inglês)</a></dd>
     </dl>
   </ul>
 </details>

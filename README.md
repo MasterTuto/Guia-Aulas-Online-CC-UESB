@@ -303,6 +303,25 @@ As disciplinas do quarto semestre e seus assuntos
       <dt>Recursos em vídeo</dt>
       <dd><a href="https://www.youtube.com/watch?v=sbKAYKA5J1A&list=PLdvD02W3316IGfKXNU5Yf5OD-BSla_21i&index=11"> Tutorial completo teórico [tailorfontela]</a></dd>
       <dd><a href="https://www.youtube.com/c/canalwrkits/videos"> Canal com todo o assunto de vhdl só pesquisar wrkits + assuntos </a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLZ8dBTV2_5HQd6f4IaoO50L6oToxQMFYt">1.1 PlayList - Curso de Assembly para PIC [WR Kits]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxTkH01AauxRm0LFLlOA9RR5O6hBLqBtC">1.2 Playlist - Assembly na Prática [Fernando Anselmo] </a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLjzmQiSlNcO64gsS8q-4aBlIOk-04zN6i">2.1 Playlist - Organização de Computadores [Questões de Informática]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLmaRoQtvrg9lLEammryBGPQbhTYlTn2as">2.2 Playlist - Arquitetura e Organização de Computadores Stallings [SI -UEMG]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLCFV1CWqaLvyNgpaOJG4C3_DOAuOGEaaV">2.3 Playlist - Arquitetura e Organização de Computadores [Max Oliveira]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=r-Ca80kDteA">3 Tipos de memória [JK Cursos Online]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=U9KuAQmuXAE">4.1 Unidades Centrais de Processamento [Gabriel Carvalho]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=r-_G2H0dczE">4.2 Unidade Central de Processamento [Paulo José Dantas Novaes]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=O2YILF5BfIE">5.1 Tópicos de Entrada e Saída [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=jS7t_rhVZ7Y">5.2 Resumo Entrada/Saída [Marcos Konzen]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=IE9EVxy8Ups">6.1 Chamadas de Sistema e Interrupções [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Nx9S5cV4WkY">6.2 Interrupções [Daniel Café]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=w3V4_x15cbU">7.1 Hierarquia de Memórias [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=xfXsUzaTQRY">7.2 Resumo Memórias [Marcos Konzen]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=kQ7bhl5eXuQ">8.1 Utilizando a Memória Auxiliar [CLP Descomplicado]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=9m9W8JId_jA">8.2 Uso de memória auxiliar [B7C Canal]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=i7XlROWMoRY">9.1 Arquitetura Superescalar [FAC Unb]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=RJAX6Lqij40">9.2 Arquitetura Superscalar [Matheus Jonatha]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=BCjWO7DOZ8E">10 Superpipeline [Michele Cristina]</a></dd>
     </dl>
   </ul>
 </details>

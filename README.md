@@ -249,6 +249,40 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
+<details><summary> <b>Engenharia de Software</b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHfeoA_yMm9iKJVxQprljmL9"> 1 Playlist - Engenharia de Software [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=amL-VX2_PeQ"> 2.1 Introdução a Engenharia de Software [Alvaro Gomes]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=ciQ2FObc3tc"> 2.2 Introdução a Engenharia de Software [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLjzmQiSlNcO4FxRa1IrmvP3Tiee2piqrr">3.1 Playlist - Processos de Desenvolvimento de Software [Questoes de Informática]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLvQ-BeS0wYi2eB2ydub_t3WRkatQn0_QC">3.2 Playlist - Processo de Desenvolvimento de Software [ADS EAD]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=kobv3TrOYiQ">3.3 Processo de Desenvolvimento de Software [Adler Diniz de Souza]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=yd_ZY7fOhOQ">4.1 PodCast - Ciclo de Vida de Software [PodProgramar]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=4Y4O7NVDc3M">4.2 Ciclo de Vida de Desenvolvimento de Software [wopemheimer]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=eIBJRkvZEGc">5.1 Plano de Gerenciamento de Projetos [Mario Trentim]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=cB87qJWJfZg">5.2 Projeto e Gerenciamento de Projetos [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLQMKp1iUmoWEGIDGMLt4xyupao04NGk2e">6.1 Playlist - Engenharia de Requisitos de Sistemas [Horácio Ribeiro]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLjCq223Pj08oGx1TnVtyQ_wHBTe0ILx9V">6.2 Playlist - Engenharia de Requisitos [JJV Learning]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=uByugxhiPaU">6.3 Engenharia de Requisitos [IGTI]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLxI8Can9yAHcmjsfjFdo_xJ3xhLiczzLC">7.1 Playlist - Gerência e Qualidade de Software [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=00xqch7gTrU">7.2 Qualidade de Software [Canal dotNET]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Hun0mLFKbYY">7.3 Qualidade de Software [Eduardo Engenharia de Software]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=2R4l995J2Jw">8.1 Projeto de Arquitetura de Software - Parte 1 [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=PwRvSNgbibU">8.1 Projeto de Arquitetura de Software - Parte 2 [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Pl3LEmKJDUM">8.2 Projeto e Arquitetura de Software [Gabriel de Oliveira]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=zu9Gz9xFfUM">8.3 O que é arquitetura de software [daves tecnologia]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=ix0QjidSurk">9.1 Verificação, Validação e Testes JUnit [Bianca Tavares]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=bkqL7e0DcIs">9.2 Verificação e Validação [Eduardo Engenharia de Software]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=DaK6Jzhz0Tc">10.1 Manutenção de Software [Eduardo Engenharia de Software]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=j2kTu_Oehjs">10.2 Evolução de Software [Eduardo Engenharia de Software]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=ro2XLNDvfpw">10.3 Desenvolvimento e Evolução do Software [Eduardo Engenharia de Software]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=-NIScxaV4ak">11 Metodologias de Desenvolvimento de Software [ladytalks]</a></dd>
+    </dl>
+  </ul>
+</details>
+
 <details><summary> <b>Programação Declarativa</b> </summary>
   <ul>
     <dl>

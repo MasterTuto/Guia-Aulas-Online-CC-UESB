@@ -7,9 +7,13 @@ Inspirado no projeto da OSSU - [Open Source Computer Science](https://github.com
 ### Materiais extras
 
 [Library Genesis](http://libgen.is/) - Site para pesquisa de artigos científicos, livros de ficção e não-ficção em geral, em vários idiomas e formatos de arquivo.
+
 [DevDocs](https://devdocs.io/) - Documentação de várias frameoworks, bibliotecas, linguagens de programação e tecnologias em geral (em inglês).
+
 [Curso em Vídeo](https://www.cursoemvideo.com/) - Plataforma de cursos grátis, do Gustavo Guanabara.
+
 [Mozilla MDN](https://developer.mozilla.org/pt-BR/) - Documentação pela Mozilla de assuntos Web.
+
 [Khan Academy](https://pt.khanacademy.org/) - Site com cursos e aulas de vários assuntos, do básico ao avançado.
 
 

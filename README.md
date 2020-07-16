@@ -88,7 +88,7 @@ Disciplinas do segundo semestre e seus assuntos.
   </ul>
 </details>
 
-<details><summary> <b> Fundamentos de Sistemas de Informação</b> </summary>
+<details><summary> <b> Fundamentos de Sistemas de Informação (FSI)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
@@ -230,7 +230,7 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary> <b>Redes de Computadores I</b> </summary>
+<details><summary> <b>Redes de Computadores I (Redes 1)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
@@ -310,7 +310,7 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary> <b>Arquitetura de Computadores 1</b> </summary>
+<details><summary> <b>Arquitetura de Computadores 1 (Arquitetura 1)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
@@ -339,12 +339,30 @@ As disciplinas do quarto semestre e seus assuntos
   </ul>
 </details>
 
-<details><summary> <b>Banco de dados 1</b> </summary>
+<details><summary> <b>Banco de dados I (BD1)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>
-      <dd><a href="https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r"> Mysql tutorial [Curso em Vídeo]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Ofktsne-utM&list=PLHz_AreHm4dkBs-795Dsgvau_ekxg8g1r"> Playlist - Mysql tutorial [Curso em Vídeo]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=7S_tz1z_5bA"> MySQL Tutorial for Beginners [Full Course] </a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=vNVqjbjcUAQ">1.1 Noções de Banco de Dados [AlfaCon Concursos Públicos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=2E7crqRI1iE">1.2 10 Conceitos de Bancos de Dados [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Q_KTYFgvu1s">1.3 Conceitos de Banco de Dados [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD">2.1 Playlist Curso de Modelagem de Dados [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=G-XOc8LVZIo">2.2 Modelagem de Banco de Dados [Antonio Savio]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=zj8roTlKLOY">3 Abordagem Relacional [Glécio Rodrigues]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=BurdDn16ZgE">4.1 Restrições de Integridade [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=kY9oNW_EEP0">4.2 Restrições de Integridade [Cadoná]</d></dd>
+      <dd><a href="https://www.youtube.com/watch?v=OQHi83i7MTg">4.3 Restrições de Integridade e Chave [André Santanchè]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=LHkJd89n__c">5.1 Álgebra Relacional [André Santanchè]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=jhD9WYNWorA">5.2 Álgebra Relacional [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=GF4Q-04K84s">5.3 Álgebra Relacional [Daniel Pimentel]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=rX2I7OjLqWE">6 Curso SQL Completo em 1 vídeo [DevAprender] </a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLqsF5rntN2nZ71PyONJCmTry6p4myI2Sb">7.1 Playlist - Normalização [Procópio na Rede]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PL2dIx3B9Nj_spfb8ou9lDs24W4H6HQEU2">7.2 Playlist - Normalização de Banco de Dados</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=c7r8t4qYWS0">8.1 Implementação do Banco de Dados [Bóson Treinamentos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=4H29e12AJdc">8.2 Projeto e Implementação do Banco de Dados [Ivan Paulino]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=SAdNtwanjco">8.3 Implementação de um Projeto de Banco de Dados [Luciano Savio]</a></dd>
     </dl>
     <dl>
       <dt>Recursos em texto</dt>

@@ -16,12 +16,31 @@ Inspirado no projeto da OSSU - [Open Source Computer Science](https://github.com
 
 [Khan Academy](https://pt.khanacademy.org/) - Site com cursos e aulas de vários assuntos, do básico ao avançado.
 
+### Primeiro Semestre
+
+Disciplinas do primeiro semestre e seus assuntos
+
+<details><summary> <b>Algoritmos e Programação I (AP1) </b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/watch?v=VdTRiUe23os">1 Evolução das Linguagens [Estudonauta Cursos]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=fzNd_PD4_n4">2 Diferença entre compilador e interpretador [professor da USP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=enQJN34Mh28">3 O que é um algoritmo [Peixe Babel]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLucm8g_ezqNpYL-z-lutCuBplhx9aqkdd"> 4 Playlist - Lógica de Programação com VisualG [Bóson Treinamentos] (1-16)</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=enr0_tBAy9I"> 5 Algoritmos em Visualg e Teste de mesa [Desenvolve .NET]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLzyfadCfUlyRdif-i5L_rrNpIuChucDQ2">6.1 Playlist - C++ Básico [Programando do Zero]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40">6.2 Playlist - Curso de C++ [CFBCursos] até aula 43</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLesCEcYj003QTw6OhCOFb1Fdl8Uiqyrqo">6.3 Playlist - Curso de C++ [eXcript]</a></dd>
+    </dl>
+  </ul>
+</details>
 
 ### Segundo Semestre
 
 Disciplinas do segundo semestre e seus assuntos.
 
-<details><summary> <b>Algoritmos e programação II (AP2)</b> </summary>
+<details><summary> <b>Algoritmos e Programação II (AP2)</b> </summary>
   <ul>
     <dl>
       <dt>Recursos em vídeo</dt>

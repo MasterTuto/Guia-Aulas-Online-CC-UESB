@@ -104,6 +104,9 @@ Disciplinas do segundo semestre e seus assuntos.
       <dd><a href="https://www.youtube.com/watch?v=kEo0dRteZE0">15.1 Ordenação topológica [henrique moura]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=MO4Lbr44Q_Y">15.2 Ordenação topológica em JavaScript [Code Shot]</a></dd>
     </dl>
+    <dl>
+      <dt>Recursos em texto</dt>
+      <dd><a href="https://www.inf.ufsc.br/grafos/definicoes/definicao.html">1. Conceitos Gerais de Grafos (UFSC)</a></dd>
   </ul>
 </details>
 

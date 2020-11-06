@@ -97,8 +97,9 @@ Disciplinas do segundo semestre e seus assuntos.
       <dd><a href="https://www.youtube.com/watch?v=u834GA3725M">11.2 Busca em largura [Leonardo Vieira]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=doH9o1sO-Cw">12.1 Busca em profundidade [UNIVESP]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=0B6VfRbppkE">12.2 Busca em profundidade [Pedro Yurp]</a></dd>
-      <dd><a href="https://www.youtube.com/watch?v=LmGRAIpF28Q">13.1 Algoritmo caminho mínimo [UNIVESP]</a></dd>
-      <dd><a href="https://www.youtube.com/watch?v=5y8dch2uHR4">13.2 Algoritmo menor caminho [Linguagem C Programação descomplicada]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=LmGRAIpF28Q">13.1 Algoritmo caminho mínimo (Dijkstra) [UNIVESP]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=aJ_2c9NVCIc">13.2 Algoritmo de Dijkstra [Guilherme Ferreira - UNISC]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=5y8dch2uHR4">13.3 Algoritmo menor caminho [Linguagem C Programação descomplicada]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=tCheLd4H-nM">14.1 Arvore geradora [Andressa Oliveira]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=1BMhVLQc2HA">14.2 Arvore geradora Mínima [Patricia Jacques Millard]</a></dd>
       <dd><a href="https://www.youtube.com/watch?v=kEo0dRteZE0">15.1 Ordenação topológica [henrique moura]</a></dd>
@@ -107,6 +108,10 @@ Disciplinas do segundo semestre e seus assuntos.
     <dl>
       <dt>Recursos em texto</dt>
       <dd><a href="https://www.inf.ufsc.br/grafos/definicoes/definicao.html">1. Conceitos Gerais de Grafos (UFSC)</a></dd>
+      <dd><a href="https://docs.ufpr.br/~volmir/PO_II_10_caminho_minimo.pdf">2. Problema do Caminho Mínimo [UFPR]</a></dd>
+      <dd><a href="https://www.ic.unicamp.br/~meidanis/courses/mo417/2003s1/aulas/2003-05-14.html">3. Algoritmos elementares em grafos [UNICAMP]</a></dd>
+      <dd><a href="https://edisciplinas.usp.br/pluginfile.php/5172984/mod_resource/content/1/ACH2024-Aula08-Grafos_BuscaEmLargura.pdf">4. Busca em Largura e Aplicações [Prof Helder Hideraldo]</a></dd>
+      <dd><a href="https://www.ft.unicamp.br/~magic/ft024/apografos_ceset_magic.pdf">5. Teoria dos Grafos - Uma Introdução [Prof. Marco Antonio - UNICAMP]</a></dd>
   </ul>
 </details>
 

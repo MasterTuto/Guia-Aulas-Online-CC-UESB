@@ -36,6 +36,42 @@ Disciplinas do primeiro semestre e seus assuntos
   </ul>
 </details>
 
+<details><summary> <b>Cálculo Diferencial e Integral I </b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC">1.1 (Playlist) Cálculo 1 completo [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLTPg64KdGgYhACfQUtMf3CuhWOfLoTf_a">1.2 (Playlist) Cálculo 1 completo [Professor Ferreto]</a></dd>
+    </dl>
+  </ul>
+</details>
+
+<details><summary> <b>Geometria Analítica e Cálculo Vetorial (GACV) </b> </summary>
+  <ul>
+    <dl>
+      <dt>Recursos em vídeo</dt>
+      <dd><a href="https://www.youtube.com/playlist?list=PL2sRT666DbkAIA2ywMHcDvmbme2V0-jqK">5.1 (Playlist) Geometria Analítica e Cálculo Vetorial</a></dd>
+      <dd><a href="https://www.youtube.com/playlist?list=PLEfwqyY2ox868TPa8vjL-QPfQlmtqRGa5">1 (Playlist) Operações com matrizes [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=pRNnguDcR6Y">2.1 A equação da reta [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=Mxg8ChbJhKk">2.2 A equação da reta [Rafael Procópio]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=-KQdcORi56w">2.3 Equação vetorial da reta [GRINGS]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=tu81HCPl4mU">3.1 Equação geral da circunferência [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=p93CirSoL8A">3.2 Equação reduzida da circunferência [Equaciona</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=ItWiSvXxsww">3.3 Equação geral da circunferência [Sandro curió]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=PMWsaMkD0uA">3.4 Equação geral e reduzida da reta [Prof. MURAKAMI]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=AQV5O0Go_YE">4.1 Elipse - As cônicas [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=mCcmt5RyfNI">4.2 Parábola - Cônicas [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=9xoLazPxV6w">4.3 Hipérbole - Cônicas [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=w0ZtqJySqHs">4.4 Cônicas - Exercícios [Equaciona]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=2ZS_bohHayA">4.5 Parábola - Cônicas (Aula 1) [Grings]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=2QxO3N5vjkk">4.6 Parábola - Cônicas (Aula 2) [Grings]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=k3LOPjFJ5uQ">4.7 Elipse - Cônicas [Grings]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=fu6RkXVq6kE">4.8 Hipérbole - Cônicas [Grings]</a></dd>
+      <dd><a href="https://www.youtube.com/watch?v=UGoidDgM7PQ">5.1 Rotação e Translação de Eixos [Percurso Educacional]</a></dd>
+    </dl>
+  </ul>
+</details>
+
 ### Segundo Semestre
 
 Disciplinas do segundo semestre e seus assuntos.
